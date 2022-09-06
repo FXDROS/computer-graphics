@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&&family=Poppins:wght@300;400;500&display=swapdisplay=swap');
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 52px;
+    margin-bottom: 32px;
+    margin-top: 32px
+}
+
+.sub-title {
+    font-weight: 400;
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+}
